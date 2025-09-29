@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hola, soy Christian Bogdanas
 
-<!--
-**0NotCris0/0NotCris0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de **Grado Medio en Sistemas Microinformáticos y Redes (SMX)**.  
+Me apasiona la **programación** y es en lo que más me concentro actualmente. 🚀
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías que manejo
+- 🌐 **HTML & CSS** → Creación de páginas web.
+- 🐧 **Linux** → Manejo básico y administración inicial.
+- 🌍 **Redes** → Conocimientos básicos de configuración y fundamentos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 En proceso de aprendizaje
+- Aprendiendo nuevos **lenguajes de programación** para ampliar mis conocimientos.
+- Profundizando en **Linux y redes**.
+- Mejorando mis habilidades en **desarrollo web**.
+
+## 🎯 Objetivo
+Seguir aprendiendo cada día más y crecer como **programador y técnico en informática**.  
+
+---
