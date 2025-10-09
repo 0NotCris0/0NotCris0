@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Christian Bogdanas</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2wxY2F2eDdwOGJjMzgwM2N6YWRseDZ0M21xampzNWM0amdqM3p0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif" width="700"/>
+<div align="center">
+  
+![chico tecleando/programando](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2wxY2F2eDdwOGJjMzgwM2N6YWRseDZ0M21xampzNWM0amdqM3p0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/toXKzaJP3WIgM/giphy.gif)
+</div>
+
 
 - 🔭 I’m currently working on **webs and apps**
 
