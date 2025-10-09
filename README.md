@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christian Bogdanas</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=0notcris0&label=Profile%20views&color=0e75b6&style=flat" alt="0notcris0" /> </p>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGZjNG1iaGZibHd2cmRwOHVzeGFibGg4amsyeW96M3BqcTF5M3g1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tBxSnkhjvG3JdhWWtv/giphy.gif" width="500"/>
 
 - 🔭 I’m currently working on **webs and apps**
 
