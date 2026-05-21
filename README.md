@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Christian Bogdanas</h1>
+<h1 align="center">Hi, I'm Christian Bogdanas</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
 
-- 🔭 I’m currently working on **webs and apps**
+- I’m currently working on **webs and apps**
 
-- 🌱 I’m currently learning **java**
+- I’m currently learning **java**
 
-- 👯 I’m looking to collaborate on **webs**
+- I’m looking to collaborate on **webs**
 
-- 📫 How to reach me **christianbogdanas@gmail.com**
+- How to reach me **christianbogdanas@gmail.com**
 <p align="left">
 </p>
 
