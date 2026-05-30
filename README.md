@@ -1,5 +1,5 @@
 <h1 align="center">Christian Bogdanas</h1>
-<h3 align="center">Web & Application Developer — Spain</h3>
+<h3 align="center">Web & Application Developer</h3>
 
 <p align="center">
   <a href="mailto:christianbogdanas@gmail.com">christianbogdanas@gmail.com</a>
