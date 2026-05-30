@@ -13,12 +13,8 @@ Web and application developer based in Spain, with a focus on building clean, fu
 
 `HTML` `CSS` `Python` `Bootstrap` `Figma` `Linux`
 
-**Interests**
-
-Front-end development, UI design, and 3D visualization. Comfortable working across both development and creative tooling.
-
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0NotCris0&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=0NotCris0&theme=tokyonight&hide_border=true" alt="0NotCris0's GitHub Stats" />
 </p>
