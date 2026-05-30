@@ -1,18 +1,24 @@
-<h1 align="center">Hi, I'm Christian Bogdanas</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h1 align="center">Christian Bogdanas</h1>
+<h3 align="center">Web & Application Developer — Spain</h3>
 
-
-- I’m currently working on **webs and apps**
-
-- I’m currently learning **java**
-
-- I’m looking to collaborate on **webs**
-
-- How to reach me **christianbogdanas@gmail.com**
-<p align="left">
+<p align="center">
+  <a href="mailto:christianbogdanas@gmail.com">christianbogdanas@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+Web and application developer based in Spain, with a focus on building clean, functional interfaces. Currently expanding into Java and open to collaboration on web projects.
 
+**Stack**
+
+`HTML` `CSS` `Python` `Bootstrap` `Figma` `Linux`
+
+**Interests**
+
+Front-end development, UI design, and 3D visualization. Comfortable working across both development and creative tooling.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0NotCris0&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats"/>
+</p>
